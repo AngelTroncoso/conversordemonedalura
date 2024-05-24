@@ -1,0 +1,17 @@
+
+‡
+java:S1854"?Remove this useless assignment to local variable "jsonToClass".(ðý÷Žûÿÿÿÿ8íÉè¹ú1J$e30051bb-3509-4a36-9954-d2ba1932670e
+x
+java:S1481"0Remove this unused "jsonToClass" local variable.(ðý÷Žûÿÿÿÿ8òÉè¹ú1J$775af55a-1449-4ad2-be3a-133c347f6e35
+~	java:S125"<This block of commented-out lines of code should be removed.(Í×¾µ8òÉè¹ú1J$4c00c41d-2090-4c3b-b4d3-4632992b7a52
+m	java:S106"+Replace this use of System.out by a logger.(Îñë8ôÉè¹ú1J$83f431b8-cb1a-40bb-9431-c2910160bc57
+p
+java:S5665"(Remove this unnecessary escape sequence.(úÐÎÙûÿÿÿÿ8õÉè¹ú1J$1bd7e4a8-5f48-40c1-9ae1-714ce25df970
+r	java:S106T"+Replace this use of System.out by a logger.(ã¦þýûÿÿÿÿ8øÉè¹ú1J$b91ac458-b40c-4eb2-8a5b-0373b95aa74f
+r	java:S106V"+Replace this use of System.out by a logger.(è—©íúÿÿÿÿ8øÉè¹ú1J$2130c9d3-0147-42d1-9192-75c582a2fecd
+m	java:S106X"+Replace this use of System.out by a logger.(ÕàäÓ8ùÉè¹ú1J$b46ab54c-1f48-4400-9ac4-5d39f6c3f66c
+~	java:S125_"<This block of commented-out lines of code should be removed.(ˆ¨½”8úÉè¹ú1J$167a575f-6200-42d0-9e88-14173ff3e104
+r	java:S106c"+Replace this use of System.out by a logger.( ¶ƒ»øÿÿÿÿ8úÉè¹ú1J$92e3c3c2-a9d9-4d79-878e-c10fc2249047
+m	java:S106f"+Replace this use of System.out by a logger.(¬ãÓ­8úÉè¹ú1J$a342cddb-426c-408d-b0b6-5eeaa944e72f
+r	java:S106i"+Replace this use of System.out by a logger.(Ã°ÿÇüÿÿÿÿ8úÉè¹ú1J$db0f2489-c3fd-4179-873d-ec2490c89345
+r	java:S106l"+Replace this use of System.out by a logger.(—Œ·–ùÿÿÿÿ8ûÉè¹ú1J$969f86d4-98d3-400e-8a1d-e66508a9932b

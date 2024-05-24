@@ -1,0 +1,11 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(Îñë
+G
+java:S5663",Use simple literal for a single-line string.(Æô¤¾ıÿÿÿÿ
+C
+java:S5665"(Remove this unnecessary escape sequence.(’Êœ§ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(êÃ
+E	java:S106 "+Replace this use of System.out by a logger.(·›¥¬ıÿÿÿÿ
+@	java:S106%"+Replace this use of System.out by a logger.(Îñë
+P
+java:S2479%":Remove the non-escaped \u0009 character from this literal.(Îñë
