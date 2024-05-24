@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2055ea9-65e8-4ac2-ba60-c88afb7e8201" name="Changes" comment="">
+      <changelist_data name="AngelTroncoso" email="157044866+angeltroncoso@users.noreply.github.com" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1ceb6dd1fd74c39e3903e244f4e69061fef1291f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a92f8fb27f9080b96a9414221dc755e4736bb6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d636d67f1c54678b35f207db5e0eb95bf7d56c4b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e63c5d461036faa917f57dddca2fba9ea2257279" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/c/1ceb6dd1fd74c39e3903e244f4e69061fef1291f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5a92f8fb27f9080b96a9414221dc755e4736bb6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/6/d636d67f1c54678b35f207db5e0eb95bf7d56c4b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e63c5d461036faa917f57dddca2fba9ea2257279" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertidor-moneda-ch-2-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertidor-moneda-ch-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertidoralura" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2-main/ConexionApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2-main/Convertidor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2-main/JsonClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2-main/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2/ConexionApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2/Convertidor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2/JsonClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/convertidor-moneda-ch-2/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConexionApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Convertidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JsonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AngelTroncoso &lt;157044866+angeltroncoso@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AngelTroncoso&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AngelTroncoso/convertidoralura.git&quot;,
+    &quot;accountId&quot;: &quot;e63340ff-c73c-488b-8217-d82e6df45958&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gsqRbKFfcY8DPS8ExH3f7kAa4c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/angel/OneDrive/Escritorio/JVM/JVM/conversor/convertidor-monedalura",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2055ea9-65e8-4ac2-ba60-c88afb7e8201" name="Changes" comment="" />
+      <created>1716496626372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716496626372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
